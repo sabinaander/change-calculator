@@ -1,0 +1,1 @@
+Small assignment in school to calculate the change a customer gets back after a purchase.
